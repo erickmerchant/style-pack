@@ -1,5 +1,5 @@
 {
-  "name": "style-pack",
+  "name": "@erickmerchant/style-pack",
   "version": "0.0.0",
   "description": "pack css files from a json stream into a single css file",
   "main": "index.js",
